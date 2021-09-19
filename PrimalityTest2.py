@@ -1,3 +1,4 @@
+#/Users/neng/Desktop/code/Python/PrimalityTest2.py
 prime = 0
 comp = 0
 c = 0
