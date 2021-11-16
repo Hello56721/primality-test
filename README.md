@@ -1,6 +1,7 @@
-# primality test
+# Primality Test
 
-dont judge me im bad at python
+> dont judge me im bad at python
+- Neng Li
 
 A simple program to iterate the number of prime numbers in a certain range. Just run it from the command line and, well, yeah.
 
